@@ -1,4 +1,4 @@
-# mail2sms
+# mail2mms
 
 -Create a gmail
 
@@ -20,4 +20,6 @@ python3 main.py
 -Dependency Install
 
 -FIX Google Module and add instructions to use my fork
+
+-Add CLI
 
