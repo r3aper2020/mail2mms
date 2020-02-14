@@ -17,7 +17,7 @@ def GetTargets():
     for c in carrier:
         for num in phonenumber:
             receivers.append(num+c)
-            print(receivers)
+            
     return receivers
 
 def GetAttachments():
